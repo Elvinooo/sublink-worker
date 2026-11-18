@@ -11,7 +11,6 @@ export const Footer = () => {
                 <div class="flex flex-col md:flex-row items-center justify-between gap-4">
                     <div class="flex flex-col md:flex-row items-center gap-2 md:gap-4 text-gray-600 dark:text-gray-400 text-center md:text-left">
                         <span class="text-sm">© {currentYear} {APP_NAME}. All rights reserved.</span>
-                        <span class="hidden md:inline text-gray-300 dark:text-gray-700">|</span>
 
                     </div>
 
